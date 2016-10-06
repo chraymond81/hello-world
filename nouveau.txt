@@ -1,3 +1,7 @@
 rien dedans ...
+<<<<<<< HEAD
 toujours rien
 
+=======
+modification différente
+>>>>>>> 2e07daa... Update nouveau.txt
